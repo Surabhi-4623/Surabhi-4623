@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Surabhi!
 
 <!--
 **Surabhi-4623/Surabhi-4623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 👩🏻‍💻 Software Engineer sharing about my journey and learnings
+- 📚 Pursuing Masters in Computer Enginering at [University Of Southern California](https://www.usc.edu/)
+- 🤔 Looking for co-op or full-time opportunities starting in 2025
+- 😺 In my free time, I enjoy traveling and playing badminton
+- 😄 Pronouns: She/Her
+- 📄 My [Resume](https://drive.google.com/file/d/1wmu2DgObEg4KJiqD9qhGcBfXJynvRW_B/view?usp=sharing)
+
+
+
+
