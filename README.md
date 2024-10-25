@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-Hi there, I'm Surabhi!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings<br>📚 Pursuing Masters in Computer Enginering at University Of Southern California<br>🤔 Looking for co-op or full-time opportunities starting in 2025<br>😺 In my free time, I enjoy traveling and playing badminton<br>😄 Pronouns: She/Her<br>📄 My Resume
+Hi there, I'm Surabhi!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings<br>📚 Pursuing Masters in Computer Enginering at [University Of Southern California](https://www.usc.edu/)<br>🤔 Looking for co-op or full-time opportunities starting in 2025<br>😺 In my free time, I enjoy traveling and playing badminton<br>😄 Pronouns: She/Her<br>📄 My [Resume](https://drive.google.com/file/d/1wmu2DgObEg4KJiqD9qhGcBfXJynvRW_B/view?usp=sharing)
+<br/>
+🌱 Currently learning **MEARN**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
