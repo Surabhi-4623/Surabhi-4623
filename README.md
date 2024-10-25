@@ -1,4 +1,4 @@
-[![MasterHead]([https://th.bing.com/th/id/R.6e6dfbb2a1ea03b17f10836e772d943c?rik=5MDTfSUdXVH2dA&pid=ImgRaw&r=0](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif))](https://surabhi-4623.io)
+
 # 💫 About Me:
 Hi there, I'm Surabhi!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings<br>📚 Pursuing Masters in Computer Enginering at University Of Southern California<br>🤔 Looking for co-op or full-time opportunities starting in 2025<br>😺 In my free time, I enjoy traveling and playing badminton<br>😄 Pronouns: She/Her<br>📄 My Resume
 
